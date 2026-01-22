@@ -1,0 +1,10 @@
+C:\Users\Student\Desktop\821\MultiFileManager\MultiFileManager\bin\Debug\MultiFileManager.exe.config
+C:\Users\Student\Desktop\821\MultiFileManager\MultiFileManager\bin\Debug\MultiFileManager.exe
+C:\Users\Student\Desktop\821\MultiFileManager\MultiFileManager\bin\Debug\MultiFileManager.pdb
+C:\Users\Student\Desktop\821\MultiFileManager\MultiFileManager\obj\Debug\MultiFileManager.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\821\MultiFileManager\MultiFileManager\obj\Debug\MultiFileManager.Form1.resources
+C:\Users\Student\Desktop\821\MultiFileManager\MultiFileManager\obj\Debug\MultiFileManager.Properties.Resources.resources
+C:\Users\Student\Desktop\821\MultiFileManager\MultiFileManager\obj\Debug\MultiFileManager.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\821\MultiFileManager\MultiFileManager\obj\Debug\MultiFileManager.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\821\MultiFileManager\MultiFileManager\obj\Debug\MultiFileManager.exe
+C:\Users\Student\Desktop\821\MultiFileManager\MultiFileManager\obj\Debug\MultiFileManager.pdb
